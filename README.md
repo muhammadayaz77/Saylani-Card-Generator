@@ -14,12 +14,12 @@ The Saylani Card Generator is a dynamic website that allows users to create cust
 ## Setup Instructions
 1. **Clone the Repository**: Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/saylani-card-generator.git
+   git clone https://github.com/muhammadayaz77/Saylani-Card-Generator.git
    ```
    
 2. **Navigate to the Project Directory**: 
    ```bash
-   cd saylani-card-generator
+   cd Saylani-Card-Generator
    ```
 
 3. **Open `index.html` in a Web Browser**: 
@@ -45,16 +45,13 @@ The Saylani Card Generator is a dynamic website that allows users to create cust
 - JavaScript: Programming language for adding interactivity and dynamic behavior.
 
 ## Contributors
-- [Your Name](https://github.com/your-username)
-- [Contributor 2](https://github.com/contributor2)
+- [Muhammad Ayaz](https://github.com/muhammadayaz77)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+My own design and no License
 
 ## Acknowledgements
 - Special thanks to [Saylani Welfare International Trust](https://saylaniwelfare.com/) for inspiration.
 - Thanks to Bootstrap and other open-source contributors for their amazing tools and libraries.
 
 ---
-
-Feel free to adjust the README file according to your project's specific details and requirements.
