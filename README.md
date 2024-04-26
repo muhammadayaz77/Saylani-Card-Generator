@@ -10,7 +10,8 @@ The Saylani Card Generator is a dynamic website that allows users to create cust
 - Users can input their name, roll number, academy, and upload a picture.
 - The website generates two styles of cards dynamically.
 - Responsive design using Bootstrap ensures compatibility across various devices.
-
+## Live 
+- Your site is live at https://muhammadayaz77.github.io/Saylani-Card-Generator/
 ## Setup Instructions
 1. **Clone the Repository**: Clone the repository to your local machine.
    ```bash
